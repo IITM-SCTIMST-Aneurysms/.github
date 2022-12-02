@@ -10,6 +10,8 @@
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+## Note that all the resources here are private and not to be misused. The members are expected to make sure the contents remain within the members of this group. For special permissions please contact [Prof. Prasad Patnaik B.S.V.](https://apm.iitm.ac.in/fmlab/bsvp/index.html) and [Prof. Jayanand Sudhir B.](https://www.sctimst.ac.in/people/bjs)
+
 # 👩‍💻 Resources (Please add to this and classify them appropriately)
 - ## Papers on aneurysm growth modeling
 [Modeling of Saccular Aneurysm Growth in a Human Middle Cerebral Artery](https://asmedigitalcollection.asme.org/biomechanical/article/130/5/051012/455136/Modeling-of-Saccular-Aneurysm-Growth-in-a-Human)
