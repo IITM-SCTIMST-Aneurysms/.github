@@ -13,4 +13,5 @@
 # 👩‍💻 Resources
 - ## Papers on aneurysm growth modeling
 [Modeling of Saccular Aneurysm Growth in a Human Middle Cerebral Artery](https://asmedigitalcollection.asme.org/biomechanical/article/130/5/051012/455136/Modeling-of-Saccular-Aneurysm-Growth-in-a-Human)
+
 [Modeling intracranial aneurysm stability and growth: an integrative mechanobiological framework for clinical cases](https://link.springer.com/article/10.1007/s10237-020-01351-2)
