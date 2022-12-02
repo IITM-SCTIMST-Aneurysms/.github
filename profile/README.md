@@ -6,7 +6,7 @@
 
 🙋‍♀️ We are a group of students/scholars/project staff/faculty working on simualtions related to Intracranial Aneurysms
 
-🌈 Contribution guidelines - See the code repositories, play with it, report the issues or contribute through pull-requests.
+🌈 Contribution guidelines - See the code repositories, play with it, report the issues or contribute through pull-requests(Documentation and details yet to come).
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
